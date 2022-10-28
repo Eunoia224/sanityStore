@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { client, urlFor } from "../../lib/client";
-import Image from "next/Image"
+// import Image from "next/Image"
 import {
   AiOutlineMinus,
   AiOutlinePlus,
